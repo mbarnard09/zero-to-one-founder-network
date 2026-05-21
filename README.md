@@ -4,6 +4,10 @@ A backlink swap for founders in the [Zero to One](https://discord.gg/k5cNhKFUv2)
 
 Everyone adds the same **Founder Network** section to their own site and links to it from their footer. That gives every member a real backlink from every other member's site, which helps Google discover and trust all of our sites.
 
+## Why backlinks matter
+
+A backlink is just a link from someone else's site to yours. Google treats them as votes of confidence: the more relevant sites that point to you, the more likely your pages are to get discovered, indexed, and ranked over time. For small or new sites, swapping links with other founders is one of the cheapest ways to start building that authority.
+
 ---
 
 ## How to join (3 steps)
