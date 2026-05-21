@@ -18,5 +18,10 @@
     "anchor": "Jade Web Studio",
     "url": "https://jadewebstudio.com",
     "description": "Jade Web Studio builds modern websites, AI integrations, and smarter systems for businesses that want a stronger online presence and better lead flow."
+  },
+  {
+    "anchor": "BiteSpend",
+    "url": "https://bitespend.com",
+    "description": "Snap any grocery or restaurant receipt and AI extracts every item and price, tracks your food budget, and shows where the same items cost less across stores."
   }
 ]
