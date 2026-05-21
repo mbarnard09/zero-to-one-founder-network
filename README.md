@@ -44,3 +44,26 @@ The list in [`founder-network.html`](founder-network.html) is the source of trut
 3. Everyone copies the updated block (or just adds the new `<tr>` row) to their page when they get a chance.
 
 No need to ping every time someone joins — watch this repo or check `#backlinks` for the weekly update.
+
+---
+
+## For technical founders: `members.json`
+
+If your site has a build step, you can skip the copy-paste and generate the list from [`members.json`](members.json) instead. Each entry has:
+
+```json
+{ "anchor": "Site Name", "url": "https://site.com", "description": "..." }
+```
+
+**Read it at BUILD time, not in the browser.** Fetch the JSON during your build/deploy and render real `<a>` tags into your HTML. That way you get auto-updates *and* links Google can actually see.
+
+```js
+// build-time example (Next.js server component, Astro, build script, etc.)
+const members = await fetch(
+  "https://raw.githubusercontent.com/mbarnard09/zero-to-one-founder-network/main/members.json"
+).then((r) => r.json());
+// then render: <a href={m.url}>{m.anchor}</a> — {m.description}
+```
+
+⚠️ Do **not** `fetch()` this in the browser at runtime. Links injected by client-side JS often aren't seen by Google, which makes the backlinks worthless. Build-time only.
+
