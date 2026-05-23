@@ -28,5 +28,10 @@
     "anchor": "Conduit Systems",
     "url": "https://conduitsystems.org",
     "description": "Custom software for owner-operated businesses across Dallas-Fort Worth. CRMs, internal apps, and websites that you can actually run a business on."
+  },
+  {
+    "anchor": "PitchHired",
+    "url": "https://pitchhired.com",
+    "description": "AI-powered job outreach for job seekers: find hiring contacts, generate personalized emails, and send from your own Gmail."
   }
 ]
