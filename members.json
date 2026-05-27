@@ -33,5 +33,10 @@
     "anchor": "PitchHired",
     "url": "https://pitchhired.com",
     "description": "AI-powered job outreach for job seekers: find hiring contacts, generate personalized emails, and send from your own Gmail."
+  },
+  {
+    "anchor": "PlumberTriage",
+    "url": "https://plumbertriage.gentlemansolutions.com",
+    "description": "AI-powered emergency triage tool for plumbers. Get instant, accurate assessments of plumbing issues, helping plumbers prioritize and address emergencies efficiently."
   }
 ]
