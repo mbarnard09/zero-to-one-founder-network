@@ -38,5 +38,10 @@
     "anchor": "PlumberTriage",
     "url": "https://plumbertriage.gentlemansolutions.com",
     "description": "AI-powered emergency triage tool for plumbers. Get instant, accurate assessments of plumbing issues, helping plumbers prioritize and address emergencies efficiently."
+  },
+  {
+    "anchor": "Wavit",
+    "url": "https://wavit.cc",
+    "description": "Live wait time widgets for walk-in businesses. Barbershops, salons, clinics, and any walk-in business can display a real-time queue widget on their website, no app needed for customers."
   }
 ]
