@@ -58,5 +58,10 @@
     "anchor": "Gentleman Solutions",
     "url": "https://gentlemansolutions.com",
     "description": "Custom-built software designed to automate your business. We set up the tech so you can focus on growing your business."
+  },
+  {
+    "anchor": "Atlyo",
+    "url": "https://atlyo.es",
+    "description": "All-in-one ERP and CRM for service businesses. Manage clients, appointments, Verifactu-compliant invoicing, and payments from a single platform."
   }
 ]
